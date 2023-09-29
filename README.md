@@ -96,10 +96,6 @@ To use this code for sentiment analysis, follow these steps:
 
 Based on the code provided in this repository, LSTM (Long Short-Term Memory) appears to be the preferred model for sentiment analysis due to its generalization performance. You can use the saved LSTM model for sentiment analysis on new text data.
 
-## Contributors
-
-This project was implemented by [Your Name]. Contributions, issues, and pull requests are welcome.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
